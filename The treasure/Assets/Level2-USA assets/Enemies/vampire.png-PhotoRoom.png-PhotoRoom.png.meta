@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: dd3715edaf3bac74595182b21aaf6193
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_0
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 733
+        width: 68
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c87f91816bfcd4ab604aad683b77b3
+      internalID: 969995291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_1
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 733
+        width: 69
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60ce5536a3a4974baf7604bc44cd0ae
+      internalID: -3439442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_2
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 733
+        width: 68
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adf325a6f1769048b23721a7672ea83
+      internalID: 1277027315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_3
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 733
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2d30892c743224b8e8fc4c85e4f524
+      internalID: 852335493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_4
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 733
+        width: 69
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d0fa5219f4d20418307ef968085899
+      internalID: 78381581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_5
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 617
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae504b1c534923458c51eb22cb29c73
+      internalID: 2043725131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_6
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 617
+        width: 66
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f16eeed7469d7428171d5145150310
+      internalID: -887450234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_7
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 617
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347b07ca7bec2a347a37f45e94e2e843
+      internalID: -418859902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_8
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 617
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa993c4efd8ea4f46a159e0a7197ca36
+      internalID: -2122555851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_9
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 617
+        width: 66
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85de93864333694e934876ccbb7398e
+      internalID: -901647840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_10
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 500
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8db9c98f3e6064b99a5cd091828e35
+      internalID: -1000383598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_11
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 496
+        width: 69
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a1315b4d74c5d4b99a7de90360bb2e
+      internalID: 1505263997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_12
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 497
+        width: 66
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0320560e86390d8429664c9d91c159dc
+      internalID: -837518917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_13
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 498
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1f2fcddf1b3ee439ac35e478f87005
+      internalID: 504380252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_14
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 496
+        width: 69
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11aba5cbb7455a74191508b8a4fd2905
+      internalID: -648112967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_15
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 375
+        width: 65
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c539d0eb6717d24b9a101ac288a29f2
+      internalID: 491586803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_16
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 382
+        width: 65
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9058a9838d0ada743a3a51f406bc4070
+      internalID: -163514622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_17
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 391
+        width: 65
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a25cc197ffb3124fa4e6f4e4a44eed6
+      internalID: -1574789965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_18
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 391
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8001e8571ba35d241840280231791897
+      internalID: 193998631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_19
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 382
+        width: 65
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6bbd978354cba46ad094821569211d
+      internalID: -764399206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_20
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 266
+        width: 66
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc8fa81490b75b468b48bbe854ac3aa
+      internalID: 1658038608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_21
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 266
+        width: 68
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4701294422ce7a04cb5c960e6db3f306
+      internalID: -963497764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_22
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 266
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26aaaef5819e7f24b890feffbd7b1243
+      internalID: 1035929446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_23
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 304
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a061d2aa2ae2a46a74ada6524a5751
+      internalID: -1832893506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_24
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 266
+        width: 64
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3680cd2049e894eac439bef0717fbe
+      internalID: -86174494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_25
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 307
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f1a252bf6d6934889c8c09935cf68c
+      internalID: 759811463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_26
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 317
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343ad3c6ed5fa094ba82e228df15be0a
+      internalID: 1314079627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_27
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 266
+        width: 66
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dac53f21cf91434c9da2e2c4a4d512c
+      internalID: 2008092500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_28
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 150
+        width: 66
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bf5e120be41074aae381cbbd60e54a
+      internalID: 1824856944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_29
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 150
+        width: 70
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c3cc99f1e28fd4793c29c7abe8d0ce
+      internalID: 976411793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_30
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 149
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81710e8e8fff44f488eb58ed4f94136a
+      internalID: -1916456868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_31
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 149
+        width: 77
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050e556083a03d64bb00def499d1f6fe
+      internalID: -969303026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_32
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 150
+        width: 70
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d0439081824da4c9ec3abda5a8afef
+      internalID: -2117363385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_33
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 40
+        width: 67
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c61a848a7bf4846849bce94d445698
+      internalID: 525761393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_34
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 38
+        width: 61
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3f97103a1e566429744e178e964bfa
+      internalID: -933685668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_35
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 37
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a12b413b264f74285d3107df0aac15
+      internalID: 1329115454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_36
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 35
+        width: 96
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6cf813cb4cd9746981f404f990e96b
+      internalID: 363334749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire.png-PhotoRoom.png-PhotoRoom_37
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 27
+        width: 100
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f822e89a74dc58d4892dccc6aa68beda
+      internalID: 629466774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      vampire.png-PhotoRoom.png-PhotoRoom_37: 629466774
+      vampire.png-PhotoRoom.png-PhotoRoom_5: 2043725131
+      vampire.png-PhotoRoom.png-PhotoRoom_9: -901647840
+      vampire.png-PhotoRoom.png-PhotoRoom_15: 491586803
+      vampire.png-PhotoRoom.png-PhotoRoom_30: -1916456868
+      vampire.png-PhotoRoom.png-PhotoRoom_4: 78381581
+      vampire.png-PhotoRoom.png-PhotoRoom_14: -648112967
+      vampire.png-PhotoRoom.png-PhotoRoom_3: 852335493
+      vampire.png-PhotoRoom.png-PhotoRoom_19: -764399206
+      vampire.png-PhotoRoom.png-PhotoRoom_21: -963497764
+      vampire.png-PhotoRoom.png-PhotoRoom_12: -837518917
+      vampire.png-PhotoRoom.png-PhotoRoom_31: -969303026
+      vampire.png-PhotoRoom.png-PhotoRoom_24: -86174494
+      vampire.png-PhotoRoom.png-PhotoRoom_29: 976411793
+      vampire.png-PhotoRoom.png-PhotoRoom_25: 759811463
+      vampire.png-PhotoRoom.png-PhotoRoom_28: 1824856944
+      vampire.png-PhotoRoom.png-PhotoRoom_27: 2008092500
+      vampire.png-PhotoRoom.png-PhotoRoom_0: 969995291
+      vampire.png-PhotoRoom.png-PhotoRoom_23: -1832893506
+      vampire.png-PhotoRoom.png-PhotoRoom_7: -418859902
+      vampire.png-PhotoRoom.png-PhotoRoom_10: -1000383598
+      vampire.png-PhotoRoom.png-PhotoRoom_35: 1329115454
+      vampire.png-PhotoRoom.png-PhotoRoom_2: 1277027315
+      vampire.png-PhotoRoom.png-PhotoRoom_32: -2117363385
+      vampire.png-PhotoRoom.png-PhotoRoom_11: 1505263997
+      vampire.png-PhotoRoom.png-PhotoRoom_16: -163514622
+      vampire.png-PhotoRoom.png-PhotoRoom_20: 1658038608
+      vampire.png-PhotoRoom.png-PhotoRoom_8: -2122555851
+      vampire.png-PhotoRoom.png-PhotoRoom_17: -1574789965
+      vampire.png-PhotoRoom.png-PhotoRoom_33: 525761393
+      vampire.png-PhotoRoom.png-PhotoRoom_36: 363334749
+      vampire.png-PhotoRoom.png-PhotoRoom_26: 1314079627
+      vampire.png-PhotoRoom.png-PhotoRoom_18: 193998631
+      vampire.png-PhotoRoom.png-PhotoRoom_34: -933685668
+      vampire.png-PhotoRoom.png-PhotoRoom_22: 1035929446
+      vampire.png-PhotoRoom.png-PhotoRoom_13: 504380252
+      vampire.png-PhotoRoom.png-PhotoRoom_6: -887450234
+      vampire.png-PhotoRoom.png-PhotoRoom_1: -3439442
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

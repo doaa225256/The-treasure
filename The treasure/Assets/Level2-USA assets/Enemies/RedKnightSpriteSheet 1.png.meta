@@ -1,0 +1,2103 @@
+fileFormatVersion: 2
+guid: 045aadb4b17a0bb4789b7fa406334a31
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 9593
+        width: 721
+        height: 731
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4ed1a868c96394482534a23a4b6ae5
+      internalID: 356146577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 9609
+        width: 748
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7475ea9857c9c0f4c9ca825c0310dcce
+      internalID: -1765708878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 3079
+        y: 9677
+        width: 868
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cdcb6a10173db4e966e44283e6a9c5
+      internalID: -912333859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 9672
+        width: 839
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585694192f6190c41ae6727a48d196ec
+      internalID: -1191441862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 5519
+        y: 9654
+        width: 897
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ff4563b0dc06f4694c86fea55c223a
+      internalID: -1414772487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 6769
+        y: 9632
+        width: 907
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cf821ebe11d38458ddd0b8c43ece9a
+      internalID: -1181566493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 7949
+        y: 9592
+        width: 1038
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c63873dd6a75b24985ba2d532e0e9a3
+      internalID: 117541759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 9197
+        y: 9581
+        width: 1072
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dd37469a799fa4c8cc86f4e524b470
+      internalID: 1253140340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 10463
+        y: 9587
+        width: 1071
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a284e3359eba544ebdd7375b7dff349
+      internalID: 535109826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 8491
+        width: 749
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f08626d4abe61f449d9a9f4e056673c
+      internalID: -2091500096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_10
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 8491
+        width: 759
+        height: 914
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14f220e837ff40468d9d499d58251a7
+      internalID: 717017490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_11
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 8497
+        width: 919
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a02c74544e7e24eba7f375cf44d3a8
+      internalID: 1951555504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_12
+      rect:
+        serializedVersion: 2
+        x: 3771
+        y: 8503
+        width: 1047
+        height: 697
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9e5399adad98b4a9bc3b67a1c3224f
+      internalID: -430279267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_13
+      rect:
+        serializedVersion: 2
+        x: 4952
+        y: 8517
+        width: 1123
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29daf7c25576dfa4d9bff32e30af9c1b
+      internalID: -1364545707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_14
+      rect:
+        serializedVersion: 2
+        x: 6138
+        y: 8534
+        width: 1135
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea5fae2e07ca5b4890eb3dd6cd93f8c
+      internalID: 1496023270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_15
+      rect:
+        serializedVersion: 2
+        x: 7324
+        y: 8554
+        width: 1135
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b34e86f3fd28a4d80a81beed630095
+      internalID: 667795597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_16
+      rect:
+        serializedVersion: 2
+        x: 8506
+        y: 8559
+        width: 1128
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bd2242d7986f545a88b29a53f21513
+      internalID: 965245203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_17
+      rect:
+        serializedVersion: 2
+        x: 9674
+        y: 8486
+        width: 1117
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fcfe2bc736fe24e8377088412c8d25
+      internalID: -1482616690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_18
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 7334
+        width: 635
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e9b0210cb86f945af6fb3bbc1efd9a
+      internalID: 639247941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_19
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 7334
+        width: 714
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9a890f66d91b0419064b7d3c084434
+      internalID: -1127609075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_20
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 7337
+        width: 899
+        height: 836
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f08e83ac166a94fa957601e6031c19
+      internalID: 982154542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_21
+      rect:
+        serializedVersion: 2
+        x: 3562
+        y: 7339
+        width: 822
+        height: 993
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeeddd0028dc0e942b44048a6dca5032
+      internalID: 1781311080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_22
+      rect:
+        serializedVersion: 2
+        x: 4571
+        y: 7339
+        width: 880
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c800fa3ff1fe7c4ea5a2520e14205b7
+      internalID: 1000784745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_23
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 7334
+        width: 1004
+        height: 805
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e082461098b334c9f0936efc270812
+      internalID: 622734554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_24
+      rect:
+        serializedVersion: 2
+        x: 6683
+        y: 7334
+        width: 902
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df3aa05f3f356742b265404dbfccb93
+      internalID: -1042567698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_25
+      rect:
+        serializedVersion: 2
+        x: 7963
+        y: 7334
+        width: 689
+        height: 805
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3992508a3f99c7c469411fcdc94b17f6
+      internalID: 657097382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_26
+      rect:
+        serializedVersion: 2
+        x: 9049
+        y: 7334
+        width: 670
+        height: 805
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cbacbf95194654cad9cdeffd3ec11b
+      internalID: -640460377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_27
+      rect:
+        serializedVersion: 2
+        x: 10128
+        y: 7334
+        width: 658
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58d3e8ab77733747ac290f9d20a41a8
+      internalID: 8481466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_28
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 6290
+        width: 749
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4387d378baf91184ca2570bab06fdf78
+      internalID: 755553448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_29
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 5349
+        width: 641
+        height: 816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0efe9ee69820e4d865a46003fa945f
+      internalID: -1547110947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_30
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 5354
+        width: 678
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f701a47c849af8240899441c3a4f9cb2
+      internalID: 1908146000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_31
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 5359
+        width: 721
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2841970152875de4d9499d8cd0868b18
+      internalID: -765255973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_32
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 5359
+        width: 760
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82158175295a7224fbb14979ea86d200
+      internalID: -222280537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_33
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 5359
+        width: 721
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6129a8a399213754c847b17f2ea61dae
+      internalID: 162299529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_34
+      rect:
+        serializedVersion: 2
+        x: 4725
+        y: 5359
+        width: 683
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597b0ae345fab6e40bd04792b2f8133e
+      internalID: 841902166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_35
+      rect:
+        serializedVersion: 2
+        x: 5644
+        y: 5359
+        width: 647
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1876550edef8e44b9df5f8e22af878
+      internalID: 958349616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_36
+      rect:
+        serializedVersion: 2
+        x: 6564
+        y: 5359
+        width: 618
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d678c8dc39593468dc0e118e79526f
+      internalID: -46646782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_37
+      rect:
+        serializedVersion: 2
+        x: 7432
+        y: 5314
+        width: 635
+        height: 851
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c7a53f9f3164f4c8cffe45fbdb1ec0
+      internalID: 1367618489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_38
+      rect:
+        serializedVersion: 2
+        x: 8312
+        y: 5314
+        width: 635
+        height: 851
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9beb5a272e3dda4eae8c49d0742114b
+      internalID: -1112765661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_39
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 4230
+        width: 806
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b7eba3cbfc3264e8519cedaf697ed9
+      internalID: 184714398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_40
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 4230
+        width: 817
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7cbf6e989144b41b49b3128a8d5307
+      internalID: -519081196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_41
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 4230
+        width: 823
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd3e00f9a8bb1f409b76144fe440ff7
+      internalID: 1785373485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_42
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 4230
+        width: 817
+        height: 1007
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a34d0e1417c9444da6bac940b4a7be0
+      internalID: 218476579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_43
+      rect:
+        serializedVersion: 2
+        x: 3664
+        y: 4230
+        width: 822
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd2705943165b24aa2cb7b365505687
+      internalID: 1935285174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_44
+      rect:
+        serializedVersion: 2
+        x: 4533
+        y: 4230
+        width: 827
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8683a1ffe81364e96df78a260f3f19
+      internalID: -528471785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_45
+      rect:
+        serializedVersion: 2
+        x: 5406
+        y: 4230
+        width: 828
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11239ebc91da6ff438ca86aaff9f3056
+      internalID: 862531828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_46
+      rect:
+        serializedVersion: 2
+        x: 6274
+        y: 4230
+        width: 823
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384bcf360abf0704e86611c993eaede0
+      internalID: -1758507160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_47
+      rect:
+        serializedVersion: 2
+        x: 7143
+        y: 4230
+        width: 817
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff23de91a2575a4bbd5ef0e848bd569
+      internalID: 2129784973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_48
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 3453
+        width: 817
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843ba97e44c70fe46bab0f841e8d4740
+      internalID: 1123224355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_49
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 3413
+        width: 774
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6d596181d104649a53dd4513ef1b52
+      internalID: 1190407348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_50
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 3447
+        width: 697
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f12b692ec012e4b8aebf0e830eaa20
+      internalID: -1065715484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_51
+      rect:
+        serializedVersion: 2
+        x: 2778
+        y: 3424
+        width: 687
+        height: 783
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4ef0ed1ac2f7b4d908bcb3eaface6b
+      internalID: 1810282246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_52
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 3413
+        width: 687
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b995337f1ef12384cb0852e9be83fa7f
+      internalID: -36820807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_53
+      rect:
+        serializedVersion: 2
+        x: 4421
+        y: 3430
+        width: 689
+        height: 783
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1f68724652b394499c54e5820cd37d
+      internalID: 484575401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_54
+      rect:
+        serializedVersion: 2
+        x: 5241
+        y: 3430
+        width: 687
+        height: 777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e9f8ee4d824f64abd0fb28416da5f9
+      internalID: 1585040310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_55
+      rect:
+        serializedVersion: 2
+        x: 6064
+        y: 3413
+        width: 687
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904a9d133fbdabe4a940c24ef0a9c366
+      internalID: 2045223371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_56
+      rect:
+        serializedVersion: 2
+        x: 6881
+        y: 3413
+        width: 687
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bae7cc1d1a84e643b0157cca576c508
+      internalID: -1099818620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_57
+      rect:
+        serializedVersion: 2
+        x: 7619
+        y: 3413
+        width: 772
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbce78fab71c73549b30c10a935abc54
+      internalID: 297895731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_58
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2596
+        width: 641
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fc8ff6e58d5e44a94c139cbff1c85a
+      internalID: 2064695226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_59
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 2596
+        width: 652
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e3b815618793d4e9555de6c59c2b12
+      internalID: 1462790999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_60
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 2611
+        width: 704
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5ea2bf19778ba47ae5082399d446e6
+      internalID: 1164586427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_61
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 2602
+        width: 726
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd52e9683cc6a549a4680d97d641897
+      internalID: -1068535033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_62
+      rect:
+        serializedVersion: 2
+        x: 3476
+        y: 2596
+        width: 738
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf341aaa8c1d854dbee8dfaa9d2e392
+      internalID: 1233698819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_63
+      rect:
+        serializedVersion: 2
+        x: 4356
+        y: 2590
+        width: 664
+        height: 816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a0b4b9235285e47bd0bc0c59c962a9
+      internalID: 1819476368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_64
+      rect:
+        serializedVersion: 2
+        x: 5173
+        y: 2596
+        width: 658
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c751f14b1f822eb418589b01bff5a224
+      internalID: -68669117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_65
+      rect:
+        serializedVersion: 2
+        x: 5990
+        y: 2607
+        width: 653
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c1684a297640b41912df957c3f9be3
+      internalID: 574397464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_66
+      rect:
+        serializedVersion: 2
+        x: 6813
+        y: 2602
+        width: 636
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd2a9b71cc6e9446a0347692c89b782
+      internalID: -1799069098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_67
+      rect:
+        serializedVersion: 2
+        x: 7602
+        y: 2602
+        width: 653
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2525e753b70c72341ba826d271f9c15d
+      internalID: 1467917099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_68
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1824
+        width: 737
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5c2458b2fd89243beeb79f06fb54c8
+      internalID: 1623860251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_69
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1024
+        width: 664
+        height: 805
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27a9b83d12745849bde7b7872de1fc7
+      internalID: -580932944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_70
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 985
+        width: 642
+        height: 816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0260f019dfd0b0b4685617e75a2c8fe9
+      internalID: 1719867798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_71
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1007
+        width: 653
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f887245240b0adf4b94479f5074a365b
+      internalID: -447978896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_72
+      rect:
+        serializedVersion: 2
+        x: 2653
+        y: 1019
+        width: 676
+        height: 805
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f752b60c9db244cb4fac9e9bcf6115
+      internalID: -995056431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_73
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 1013
+        width: 743
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518a4c98b7bd89542a2fdd2dd00aa449
+      internalID: 1611651661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_74
+      rect:
+        serializedVersion: 2
+        x: 4174
+        y: 1013
+        width: 744
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04023c94dff092f45836154175b18fff
+      internalID: 2061381819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_75
+      rect:
+        serializedVersion: 2
+        x: 4997
+        y: 1007
+        width: 709
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9cb1ce4375a6a41bf745061d46b419
+      internalID: 123204553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_76
+      rect:
+        serializedVersion: 2
+        x: 5820
+        y: 997
+        width: 675
+        height: 816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8b5b8cd458cc440b08a7c6f9034ca9
+      internalID: -1023267811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_77
+      rect:
+        serializedVersion: 2
+        x: 6626
+        y: 996
+        width: 664
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e89aec6cb5db6f45a40133266e12a1f
+      internalID: -1524023222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_78
+      rect:
+        serializedVersion: 2
+        x: 7438
+        y: 990
+        width: 646
+        height: 816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4549474d60ded34dbf480322959a52c
+      internalID: -212879896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_79
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 156
+        width: 641
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3642bfe245bd6534fb9bb87becf8e812
+      internalID: 1816809766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_80
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 156
+        width: 641
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3664dd0b66de4be449613d3eb6cb9bc3
+      internalID: 82255822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_81
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 156
+        width: 641
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857a86fb6176cf5418ac315ba63d4341
+      internalID: 1301566657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_82
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 156
+        width: 641
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda925dcae2d3014e9851650c269cf46
+      internalID: 167932054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_83
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 156
+        width: 639
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a53c962b2a16d45968a7ba18b3d5c5
+      internalID: 192013450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_84
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 156
+        width: 635
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebecafb3dcc12841b9bac57fc6d28cb
+      internalID: 1162968199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_85
+      rect:
+        serializedVersion: 2
+        x: 4197
+        y: 156
+        width: 635
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9903d3e9edf5c4342a4a1c619151e07c
+      internalID: -1971958976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_86
+      rect:
+        serializedVersion: 2
+        x: 4856
+        y: 156
+        width: 640
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f811853af376c488cbbf9b936e2d7d
+      internalID: 782680240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_87
+      rect:
+        serializedVersion: 2
+        x: 5519
+        y: 156
+        width: 641
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d876dab493318b741b45dac046ea9fc8
+      internalID: 1438265225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_88
+      rect:
+        serializedVersion: 2
+        x: 6183
+        y: 156
+        width: 641
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a508ca5e005ec4aa9fa504e71d77ac
+      internalID: 1633371862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKnightSpriteSheet 1_89
+      rect:
+        serializedVersion: 2
+        x: 6847
+        y: 156
+        width: 641
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb36dc90ac1231478e1b5072d87c50b
+      internalID: -999501158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RedKnightSpriteSheet 1_84: 1162968199
+      RedKnightSpriteSheet 1_40: -519081196
+      RedKnightSpriteSheet 1_73: 1611651661
+      RedKnightSpriteSheet 1_79: 1816809766
+      RedKnightSpriteSheet 1_72: -995056431
+      RedKnightSpriteSheet 1_35: 958349616
+      RedKnightSpriteSheet 1_53: 484575401
+      RedKnightSpriteSheet 1_61: -1068535033
+      RedKnightSpriteSheet 1_17: -1482616690
+      RedKnightSpriteSheet 1_71: -447978896
+      RedKnightSpriteSheet 1_89: -999501158
+      RedKnightSpriteSheet 1_60: 1164586427
+      RedKnightSpriteSheet 1_85: -1971958976
+      RedKnightSpriteSheet 1_44: -528471785
+      RedKnightSpriteSheet 1_12: -430279267
+      RedKnightSpriteSheet 1_6: 117541759
+      RedKnightSpriteSheet 1_83: 192013450
+      RedKnightSpriteSheet 1_63: 1819476368
+      RedKnightSpriteSheet 1_41: 1785373485
+      RedKnightSpriteSheet 1_76: -1023267811
+      RedKnightSpriteSheet 1_19: -1127609075
+      RedKnightSpriteSheet 1_20: 982154542
+      RedKnightSpriteSheet 1_31: -765255973
+      RedKnightSpriteSheet 1_18: 639247941
+      RedKnightSpriteSheet 1_74: 2061381819
+      RedKnightSpriteSheet 1_33: 162299529
+      RedKnightSpriteSheet 1_42: 218476579
+      RedKnightSpriteSheet 1_28: 755553448
+      RedKnightSpriteSheet 1_38: -1112765661
+      RedKnightSpriteSheet 1_8: 535109826
+      RedKnightSpriteSheet 1_59: 1462790999
+      RedKnightSpriteSheet 1_9: -2091500096
+      RedKnightSpriteSheet 1_22: 1000784745
+      RedKnightSpriteSheet 1_82: 167932054
+      RedKnightSpriteSheet 1_23: 622734554
+      RedKnightSpriteSheet 1_54: 1585040310
+      RedKnightSpriteSheet 1_77: -1524023222
+      RedKnightSpriteSheet 1_57: 297895731
+      RedKnightSpriteSheet 1_26: -640460377
+      RedKnightSpriteSheet 1_37: 1367618489
+      RedKnightSpriteSheet 1_65: 574397464
+      RedKnightSpriteSheet 1_4: -1414772487
+      RedKnightSpriteSheet 1_24: -1042567698
+      RedKnightSpriteSheet 1_81: 1301566657
+      RedKnightSpriteSheet 1_51: 1810282246
+      RedKnightSpriteSheet 1_67: 1467917099
+      RedKnightSpriteSheet 1_69: -580932944
+      RedKnightSpriteSheet 1_3: -1191441862
+      RedKnightSpriteSheet 1_55: 2045223371
+      RedKnightSpriteSheet 1_7: 1253140340
+      RedKnightSpriteSheet 1_1: -1765708878
+      RedKnightSpriteSheet 1_66: -1799069098
+      RedKnightSpriteSheet 1_36: -46646782
+      RedKnightSpriteSheet 1_14: 1496023270
+      RedKnightSpriteSheet 1_10: 717017490
+      RedKnightSpriteSheet 1_62: 1233698819
+      RedKnightSpriteSheet 1_52: -36820807
+      RedKnightSpriteSheet 1_15: 667795597
+      RedKnightSpriteSheet 1_0: 356146577
+      RedKnightSpriteSheet 1_29: -1547110947
+      RedKnightSpriteSheet 1_39: 184714398
+      RedKnightSpriteSheet 1_80: 82255822
+      RedKnightSpriteSheet 1_47: 2129784973
+      RedKnightSpriteSheet 1_11: 1951555504
+      RedKnightSpriteSheet 1_68: 1623860251
+      RedKnightSpriteSheet 1_21: 1781311080
+      RedKnightSpriteSheet 1_30: 1908146000
+      RedKnightSpriteSheet 1_16: 965245203
+      RedKnightSpriteSheet 1_75: 123204553
+      RedKnightSpriteSheet 1_88: 1633371862
+      RedKnightSpriteSheet 1_34: 841902166
+      RedKnightSpriteSheet 1_49: 1190407348
+      RedKnightSpriteSheet 1_87: 1438265225
+      RedKnightSpriteSheet 1_70: 1719867798
+      RedKnightSpriteSheet 1_5: -1181566493
+      RedKnightSpriteSheet 1_56: -1099818620
+      RedKnightSpriteSheet 1_2: -912333859
+      RedKnightSpriteSheet 1_25: 657097382
+      RedKnightSpriteSheet 1_32: -222280537
+      RedKnightSpriteSheet 1_48: 1123224355
+      RedKnightSpriteSheet 1_45: 862531828
+      RedKnightSpriteSheet 1_13: -1364545707
+      RedKnightSpriteSheet 1_78: -212879896
+      RedKnightSpriteSheet 1_50: -1065715484
+      RedKnightSpriteSheet 1_46: -1758507160
+      RedKnightSpriteSheet 1_43: 1935285174
+      RedKnightSpriteSheet 1_27: 8481466
+      RedKnightSpriteSheet 1_64: -68669117
+      RedKnightSpriteSheet 1_58: 2064695226
+      RedKnightSpriteSheet 1_86: 782680240
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
