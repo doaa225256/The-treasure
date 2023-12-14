@@ -943,6 +943,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: walls_0030_Layer-31 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6440603963820971121, guid: 83159973210f99448a70491db159f2fb, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 83159973210f99448a70491db159f2fb, type: 3}
 --- !u!1001 &323989385
@@ -2564,6 +2568,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: walls_0037_Layer-38 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 5050413628181333790, guid: 4ce01bc195c3c8947927e1bd954a21ae, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 8605050736267465306, guid: 4ce01bc195c3c8947927e1bd954a21ae, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -3752,7 +3760,7 @@ GameObject:
   - component: {fileID: 1484283901}
   - component: {fileID: 1484283900}
   - component: {fileID: 1484283899}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: walls_0037_Layer-38
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4588,7 +4596,7 @@ GameObject:
   - component: {fileID: 1744587392}
   - component: {fileID: 1744587391}
   - component: {fileID: 1744587390}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: walls_0030_Layer-31
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6380,6 +6388,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: walls_0037_Layer-38 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5050413628181333790, guid: 4ce01bc195c3c8947927e1bd954a21ae, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 8605050736267465306, guid: 4ce01bc195c3c8947927e1bd954a21ae, type: 3}
       propertyPath: m_RootOrder
       value: 98
@@ -6492,6 +6504,10 @@ PrefabInstance:
     - target: {fileID: 6440603963820971121, guid: 83159973210f99448a70491db159f2fb, type: 3}
       propertyPath: m_Name
       value: walls_0030_Layer-31 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6440603963820971121, guid: 83159973210f99448a70491db159f2fb, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 83159973210f99448a70491db159f2fb, type: 3}
