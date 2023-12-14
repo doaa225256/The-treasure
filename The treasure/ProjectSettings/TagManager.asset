@@ -4,12 +4,9 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Ground
-<<<<<<< Updated upstream
-  - Enemy
-=======
->>>>>>> Stashed changes
   - Wall
+  - Ground
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -18,7 +15,7 @@ TagManager:
   - Water
   - UI
   - ground
-  - wall
+  - Wall
   - 
   - 
   - 
@@ -48,14 +45,11 @@ TagManager:
     uniqueID: 0
     locked: 0
   - name: Background
-    uniqueID: 3456337927
-    locked: 0
-  - name: platform
-    uniqueID: 306926795
+    uniqueID: 3012759021
     locked: 0
   - name: Foreground
-    uniqueID: 1467773435
+    uniqueID: 1971827643
     locked: 0
   - name: Player
-    uniqueID: 1798198465
+    uniqueID: 2532157313
     locked: 0
