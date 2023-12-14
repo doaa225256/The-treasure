@@ -5,7 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+<<<<<<< Updated upstream
   - Enemy
+=======
+>>>>>>> Stashed changes
   - Wall
   layers:
   - Default
@@ -15,7 +18,7 @@ TagManager:
   - Water
   - UI
   - ground
-  - 
+  - wall
   - 
   - 
   - 

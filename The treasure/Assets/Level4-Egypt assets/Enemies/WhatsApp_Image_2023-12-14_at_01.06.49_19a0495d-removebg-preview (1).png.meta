@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2e63275c3cb4c5d4b86a446c6e5c0c97
+guid: 2db1fc650350f2c4898583d2da95983a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 20
+  spritePixelsToUnits: 50
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -105,316 +105,253 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: mummy-01-removebg-preview_0
+      name: WhatsApp_Image_2023-12-14_at_01.06.49_19a0495d-removebg-preview (1)_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 192
-        width: 52
-        height: 64
+        x: 19
+        y: 262
+        width: 190
+        height: 199
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f8e47546157093544b2fd35e7083b222
-      internalID: -1868716991
+      spriteID: 1553ea946483f0c4b81655edb11393f9
+      internalID: -1914348001
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mummy-01-removebg-preview_1
+      name: WhatsApp_Image_2023-12-14_at_01.06.49_19a0495d-removebg-preview (1)_1
       rect:
         serializedVersion: 2
-        x: 60
-        y: 194
-        width: 25
-        height: 48
+        x: 214
+        y: 261
+        width: 170
+        height: 196
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af14fb0781f5a1d4f845adcc09702df7
-      internalID: 1285409881
+      spriteID: 9316a5632853304498bdf926f3698ece
+      internalID: 916450101
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mummy-01-removebg-preview_2
+      name: WhatsApp_Image_2023-12-14_at_01.06.49_19a0495d-removebg-preview (1)_2
       rect:
         serializedVersion: 2
-        x: 99
-        y: 192
-        width: 33
-        height: 64
+        x: 387
+        y: 262
+        width: 175
+        height: 158
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a4e81f1f1a4ac746a55d61eea9bb159
-      internalID: -862517998
+      spriteID: f6eda6bd0952675428c12535a14b1810
+      internalID: -955533173
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mummy-01-removebg-preview_3
+      name: WhatsApp_Image_2023-12-14_at_01.06.49_19a0495d-removebg-preview (1)_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 124
-        width: 45
-        height: 62
+        x: 562
+        y: 267
+        width: 170
+        height: 142
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 221c58a54df2c694281fd8e69f02b96f
-      internalID: 1884126461
+      spriteID: 44fbb56586fa89b4a9c9d3ff2c9bd1a9
+      internalID: 1232173756
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mummy-01-removebg-preview_4
+      name: WhatsApp_Image_2023-12-14_at_01.06.49_19a0495d-removebg-preview (1)_4
       rect:
         serializedVersion: 2
-        x: 40
-        y: 148
-        width: 8
-        height: 4
+        x: 737
+        y: 262
+        width: 217
+        height: 126
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b154917c0f6a7df49afa744c0c8a6af7
-      internalID: 978643202
+      spriteID: c68d181ed37c55845a7fc648f72b692c
+      internalID: 137814583
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mummy-01-removebg-preview_5
+      name: WhatsApp_Image_2023-12-14_at_01.06.49_19a0495d-removebg-preview (1)_5
       rect:
         serializedVersion: 2
-        x: 64
-        y: 128
-        width: 36
-        height: 55
+        x: 955
+        y: 247
+        width: 215
+        height: 135
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c25a97ffee51844f958141f46f8d939
-      internalID: 776164944
+      spriteID: df5887c33d86a9c4393f63a387b68cd1
+      internalID: 1409809317
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mummy-01-removebg-preview_6
+      name: WhatsApp_Image_2023-12-14_at_01.06.49_19a0495d-removebg-preview (1)_6
       rect:
         serializedVersion: 2
-        x: 111
-        y: 128
-        width: 33
-        height: 52
+        x: 34
+        y: 16
+        width: 190
+        height: 121
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 3, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d67c886e27d86346888fa4db96b0159
-      internalID: 412459662
+      spriteID: b7115d8d4119e1d4f90b5dd94e010f14
+      internalID: -872997100
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mummy-01-removebg-preview_7
+      name: WhatsApp_Image_2023-12-14_at_01.06.49_19a0495d-removebg-preview (1)_7
       rect:
         serializedVersion: 2
-        x: 92
-        y: 124
-        width: 4
-        height: 4
+        x: 224
+        y: 28
+        width: 167
+        height: 109
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a99e6ab583f99948b80b4bb50d9cefc
-      internalID: -1166446859
+      spriteID: e00d94a431b43c34db6cdb9aee5aca85
+      internalID: -1655021502
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mummy-01-removebg-preview_8
+      name: WhatsApp_Image_2023-12-14_at_01.06.49_19a0495d-removebg-preview (1)_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 33
-        height: 55
+        x: 395
+        y: 26
+        width: 169
+        height: 133
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 327b88bcaa5bacd478ec82f96d33666c
-      internalID: 1889041760
+      spriteID: 1f3112247bec11d459f167c22faf6983
+      internalID: -173343911
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mummy-01-removebg-preview_9
+      name: WhatsApp_Image_2023-12-14_at_01.06.49_19a0495d-removebg-preview (1)_9
       rect:
         serializedVersion: 2
-        x: 12
-        y: 58
-        width: 32
-        height: 61
+        x: 570
+        y: 52
+        width: 175
+        height: 117
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e3d858b2c0a9d44cbc61ee672f6ce83
-      internalID: 1720846849
+      spriteID: 6b1b256056889394594a6489de71abfb
+      internalID: -428139025
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mummy-01-removebg-preview_10
+      name: WhatsApp_Image_2023-12-14_at_01.06.49_19a0495d-removebg-preview (1)_10
       rect:
         serializedVersion: 2
-        x: 48
-        y: 51
-        width: 47
-        height: 65
+        x: 746
+        y: 38
+        width: 190
+        height: 204
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0de11868cfa01c43ac888270e3ad0b8
-      internalID: -1112887711
+      spriteID: f45ea91ade2bdd6469d85812e3a125ba
+      internalID: 1659834430
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mummy-01-removebg-preview_11
+      name: WhatsApp_Image_2023-12-14_at_01.06.49_19a0495d-removebg-preview (1)_11
       rect:
         serializedVersion: 2
-        x: 52
-        y: 1
-        width: 28
-        height: 55
+        x: 949
+        y: 48
+        width: 203
+        height: 199
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f9c5ad86e79cee94fa6c16d75b62a7ec
-      internalID: -1237265317
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mummy-01-removebg-preview_12
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 56
-        width: 4
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7c5a12b92ad4116409d46ed93115d6d0
-      internalID: -1597987358
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mummy-01-removebg-preview_13
-      rect:
-        serializedVersion: 2
-        x: 84
-        y: 64
-        width: 60
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c136c3cfa83d1034f8f0f01ee346516c
-      internalID: -1443291885
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mummy-01-removebg-preview_14
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 0
-        width: 64
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e85d53e1a076fb0418f49bfeca64cde8
-      internalID: 148876293
+      spriteID: 52d13830eb4228644a1a9dcfce2bd750
+      internalID: -382131097
       vertices: []
       indices: 
       edges: []
@@ -430,21 +367,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      mummy-01-removebg-preview_1: 1285409881
-      mummy-01-removebg-preview_9: 1720846849
-      mummy-01-removebg-preview_7: -1166446859
-      mummy-01-removebg-preview_6: 412459662
-      mummy-01-removebg-preview_5: 776164944
-      mummy-01-removebg-preview_8: 1889041760
-      mummy-01-removebg-preview_0: -1868716991
-      mummy-01-removebg-preview_12: -1597987358
-      mummy-01-removebg-preview_11: -1237265317
-      mummy-01-removebg-preview_4: 978643202
-      mummy-01-removebg-preview_14: 148876293
-      mummy-01-removebg-preview_10: -1112887711
-      mummy-01-removebg-preview_3: 1884126461
-      mummy-01-removebg-preview_13: -1443291885
-      mummy-01-removebg-preview_2: -862517998
+      WhatsApp_Image_2023-12-14_at_01.06.49_19a0495d-removebg-preview (1)_11: -382131097
+      WhatsApp_Image_2023-12-14_at_01.06.49_19a0495d-removebg-preview (1)_0: -1914348001
+      WhatsApp_Image_2023-12-14_at_01.06.49_19a0495d-removebg-preview (1)_6: -872997100
+      WhatsApp_Image_2023-12-14_at_01.06.49_19a0495d-removebg-preview (1)_1: 916450101
+      WhatsApp_Image_2023-12-14_at_01.06.49_19a0495d-removebg-preview (1)_8: -173343911
+      WhatsApp_Image_2023-12-14_at_01.06.49_19a0495d-removebg-preview (1)_5: 1409809317
+      WhatsApp_Image_2023-12-14_at_01.06.49_19a0495d-removebg-preview (1)_4: 137814583
+      WhatsApp_Image_2023-12-14_at_01.06.49_19a0495d-removebg-preview (1)_3: 1232173756
+      WhatsApp_Image_2023-12-14_at_01.06.49_19a0495d-removebg-preview (1)_7: -1655021502
+      WhatsApp_Image_2023-12-14_at_01.06.49_19a0495d-removebg-preview (1)_10: 1659834430
+      WhatsApp_Image_2023-12-14_at_01.06.49_19a0495d-removebg-preview (1)_2: -955533173
+      WhatsApp_Image_2023-12-14_at_01.06.49_19a0495d-removebg-preview (1)_9: -428139025
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

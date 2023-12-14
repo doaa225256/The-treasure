@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 04014701f7ec1514bb0d093f8e64437b
+guid: d6b4a350510c6c84d99bee5ba234af2c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 20
+  spritePixelsToUnits: 70
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -105,13 +105,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Pharonic Symbols_0
+      name: 85146576576_0
       rect:
         serializedVersion: 2
-        x: 33
-        y: 223
-        width: 111
-        height: 244
+        x: 61
+        y: 33
+        width: 117
+        height: 373
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -119,20 +119,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 38bb1319db0795042b19a3f5b55e6ccd
-      internalID: -465455941
+      spriteID: 196c7771ff849354799e9351acb5e80d
+      internalID: -1348743421
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pharonic Symbols_1
+      name: 85146576576_1
       rect:
         serializedVersion: 2
-        x: 173
-        y: 343
-        width: 40
-        height: 110
+        x: 187
+        y: 28
+        width: 135
+        height: 378
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,20 +140,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74305a95fc95a5049b0f5f82ca9eadcd
-      internalID: -1306694539
+      spriteID: e9b016003b5bff54894fb9e421f0c7b1
+      internalID: -410868857
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pharonic Symbols_2
+      name: 85146576576_2
       rect:
         serializedVersion: 2
-        x: 256
-        y: 179
-        width: 124
-        height: 279
+        x: 328
+        y: 27
+        width: 108
+        height: 382
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -161,20 +161,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74d0ce483797c174e93fd71256c6ad2f
-      internalID: -1061104709
+      spriteID: 6e00bfa332086d3439bd8c060836d237
+      internalID: 1047292274
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pharonic Symbols_3
+      name: 85146576576_3
       rect:
         serializedVersion: 2
-        x: 383
-        y: 45
-        width: 98
-        height: 427
+        x: 443
+        y: 30
+        width: 135
+        height: 377
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -182,20 +182,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f16117a87102d04d8663f29cd879c7d
-      internalID: 1209267150
+      spriteID: a40cde44c2fd9d84498d1cd909baab54
+      internalID: -1407834102
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pharonic Symbols_4
+      name: 85146576576_4
       rect:
         serializedVersion: 2
-        x: 38
-        y: 146
-        width: 101
-        height: 68
+        x: 585
+        y: 28
+        width: 119
+        height: 379
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,20 +203,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 19ab282734ff4a44da0e5ecbce10fb5b
-      internalID: -1100656957
+      spriteID: 972cd91203696f54f96c39bc64055758
+      internalID: 1783354480
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pharonic Symbols_5
+      name: 85146576576_5
       rect:
         serializedVersion: 2
-        x: 155
-        y: 202
-        width: 101
-        height: 116
+        x: 712
+        y: 31
+        width: 118
+        height: 376
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -224,20 +224,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c1e3dd4aaff17a419e354d5b6330e83
-      internalID: -926357690
+      spriteID: d4a971ef60c555940bcfc697b2544cf7
+      internalID: 1913681372
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pharonic Symbols_6
+      name: 85146576576_6
       rect:
         serializedVersion: 2
-        x: 40
-        y: 42
-        width: 40
-        height: 90
+        x: 837
+        y: 38
+        width: 126
+        height: 371
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -245,20 +245,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee6ac70e74418ba4c9ccae539f13a324
-      internalID: -1152929676
+      spriteID: 38d9a15134e2e8c479e5435e5b857533
+      internalID: 767740562
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pharonic Symbols_7
+      name: 85146576576_7
       rect:
         serializedVersion: 2
-        x: 88
-        y: 42
-        width: 45
-        height: 97
+        x: 969
+        y: 34
+        width: 126
+        height: 376
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -266,29 +266,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a75fa8b549485d343a84493d76f85087
-      internalID: 1087218574
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pharonic Symbols_8
-      rect:
-        serializedVersion: 2
-        x: 140
-        y: 49
-        width: 227
-        height: 125
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 239a3f95d42a77749bd1e466a935536b
-      internalID: 1815534112
+      spriteID: 0e5c128ece0cc55449c19fbfc08f597f
+      internalID: -600231964
       vertices: []
       indices: 
       edges: []
@@ -304,15 +283,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Pharonic Symbols_4: -1100656957
-      Pharonic Symbols_8: 1815534112
-      Pharonic Symbols_3: 1209267150
-      Pharonic Symbols_2: -1061104709
-      Pharonic Symbols_5: -926357690
-      Pharonic Symbols_6: -1152929676
-      Pharonic Symbols_7: 1087218574
-      Pharonic Symbols_1: -1306694539
-      Pharonic Symbols_0: -465455941
+      85146576576_3: -1407834102
+      85146576576_7: -600231964
+      85146576576_4: 1783354480
+      85146576576_2: 1047292274
+      85146576576_0: -1348743421
+      85146576576_6: 767740562
+      85146576576_5: 1913681372
+      85146576576_1: -410868857
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
