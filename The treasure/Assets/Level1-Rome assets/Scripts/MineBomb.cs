@@ -23,7 +23,7 @@ public class MineBomb : MonoBehaviour
         if (other.gameObject.tag == "Player" && other.GetContact(0).point.y < transform.position.y)
         {
             sr.sprite = explodedBlock;
-            //Object.Destroy(gameObject, .2f);
+            //Object.Destroy(gameObject, .10f);
             FindObjectOfType<LevelManager>().RespawnPlayer();
         }
     }
