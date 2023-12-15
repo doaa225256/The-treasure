@@ -50,12 +50,12 @@ public class PlayerMovement : MonoBehaviour
         }
         if (Input.GetKeyDown(downarrow))
         {
-            anim.SetBool("hit2", true);
+            anim.SetBool("slide", true);
          
         }
         else
         {
-            anim.SetBool("hit2", false);
+            anim.SetBool("slide", false);
         }
         if (Input.GetKeyDown(spacebar) && grounded)
         {
