@@ -8,22 +8,28 @@ public class Flying_Enemy : Enemy_Controller
     public float HorizontalSpeed;
     public float VerticalSpeed;
     public float Amplitude;
-
-    private Vector3 tempPosition;
+    public float pos;
+    private Vector3 temp_pos;
 
     void Start()
     {
-        tempPosition = transform.position;
+        temp_pos = transform.position;
     }
 
     void FixedUpdate()
     {
-        // Move the enemy in a sine wave pattern
-        tempPosition.x += HorizontalSpeed * Time.deltaTime;
-        tempPosition.y = Mathf.Sin(Time.realtimeSinceStartup * VerticalSpeed) * Amplitude;
-
-        // Move the enemy
-        transform.position = tempPosition;
+        if (isFacingRight)
+        {
+            temp_pos.x += HorizontalSpeed * Time.deltaTime;
+            temp_pos.y = (Mathf.Sin(Time.realtimeSinceStartup * VerticalSpeed) * Amplitude) - pos;
+            transform.position = temp_pos;
+        }
+        else
+        {
+            temp_pos.x -= HorizontalSpeed * Time.deltaTime;
+            temp_pos.y = (Mathf.Sin(Time.realtimeSinceStartup * VerticalSpeed) * Amplitude) - pos;
+            transform.position = temp_pos;
+        }
     }
 
     void OnTriggerEnter2D(Collider2D collider)
@@ -33,6 +39,10 @@ public class Flying_Enemy : Enemy_Controller
             Flip();
         }
         if (collider.tag == "Enemy")
+        {
+            Flip();
+        }
+        if (collider.tag == "Ground")
         {
             Flip();
         }
