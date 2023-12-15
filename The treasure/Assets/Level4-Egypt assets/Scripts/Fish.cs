@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using static UnityEngine.RuleTile.TilingRuleOutput;
 
-public class Camel_Movement : Enemy_Controller
+public class Fish : Enemy_Controller
 {
     public float HorizontalSpeed;
     public float VerticalSpeed;
@@ -38,10 +38,11 @@ public class Camel_Movement : Enemy_Controller
         {
             Flip();
         }
-  
-        //if (collider.tag == "Ground")
-        //{
-        //    Flip();
-        //}
+
+        if (collider.tag == "Player")
+        {
+            FindObjectOfType<Player_Stats>().TakeDamage(damage);
+            Flip();
+        }
     }
 }

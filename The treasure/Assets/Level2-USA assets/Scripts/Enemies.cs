@@ -9,13 +9,14 @@ public class Enemies : MonoBehaviour
     public bool isFacingRight = false;
     public float maxSpeed = 3f;
     public int damage = 6;
-
+    public int maxHealth = 100;
+    int currentHealth;
 
 
     // Start is called before the first frame update
     void Start()
     {
-
+        currentHealth = maxHealth;
     }
 
     // Update is called once per frame
@@ -35,4 +36,21 @@ public class Enemies : MonoBehaviour
             FindObjectOfType<PlayerStats>().TakeDamage(damage);
         }
     }
+    public void TakeDamage(int damageAmount)
+    {
+        currentHealth -= damageAmount;
+
+        // Check if the enemy should be destroyed
+        if (currentHealth <= 0)
+        {
+            Die();
+        }
+    }
+
+    void Die()
+    {
+        // Perform death-related actions (e.g., play death animation, drop items, etc.)
+        Destroy(gameObject); // Destroy the enemy GameObject
+    }
+
 }
