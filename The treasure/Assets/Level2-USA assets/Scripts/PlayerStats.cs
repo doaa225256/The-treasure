@@ -1,6 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using TMPro;
+using static System.Net.Mime.MediaTypeNames;
 
 public class PlayerStats : MonoBehaviour
 {
@@ -14,7 +17,23 @@ public class PlayerStats : MonoBehaviour
     private float immunityTime = 0f;
     private float immunityDuration = 1.5f;
     public int coinsCollected = 0;
+    public TextMeshProUGUI ScoreUI;
+    public UnityEngine.UI.Image healthbar;
 
+    void OnTriggerEnter2D(Collider2D collider)
+    {
+
+        switch (collider.transform.tag)
+        {
+            case "Coin":
+                coinsCollected+=10;
+                Destroy(collider.gameObject);
+                break;
+            default:
+                break;
+
+        }
+    }
 
     // Start is called before the first frame update
     void Start()
@@ -35,6 +54,7 @@ public class PlayerStats : MonoBehaviour
                 this.spriteRenderer.enabled = true;
             }
         }
+        ScoreUI.text = "" + coinsCollected;
 
     }
 
@@ -56,6 +76,7 @@ public class PlayerStats : MonoBehaviour
         if (this.isImmune == false)
         {
             this.health = this.health - damage;
+            healthbar.fillAmount = this.health / 6f;
             if (this.health < 0)
                 this.health = 0;
             if (this.lives > 0 && this.health == 0)
