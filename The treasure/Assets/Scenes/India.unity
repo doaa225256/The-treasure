@@ -2604,15 +2604,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 529136514897063201, guid: 28616907004b5e745a9102091ee8b1da, type: 3}
       propertyPath: m_LocalScale.y
-      value: 13.598665
+      value: 13.310373
       objectReference: {fileID: 0}
     - target: {fileID: 529136514897063201, guid: 28616907004b5e745a9102091ee8b1da, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 521.15
+      value: 521.09
       objectReference: {fileID: 0}
     - target: {fileID: 529136514897063201, guid: 28616907004b5e745a9102091ee8b1da, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -6.8841
+      value: -6.07
       objectReference: {fileID: 0}
     - target: {fileID: 529136514897063201, guid: 28616907004b5e745a9102091ee8b1da, type: 3}
       propertyPath: m_LocalPosition.z
@@ -7502,7 +7502,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6620914867349506112, guid: b79ba6a0684f70246b251cb5cc9a84f9, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< Updated upstream
       value: 34
+=======
+      value: 2
+>>>>>>> Stashed changes
       objectReference: {fileID: 0}
     - target: {fileID: 6620914867349506112, guid: b79ba6a0684f70246b251cb5cc9a84f9, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8191,8 +8195,8 @@ HingeJoint2D:
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
-  m_Anchor: {x: -1.74, y: -0.24}
-  m_ConnectedAnchor: {x: 1.6716187, y: -0.25288078}
+  m_Anchor: {x: -1.73, y: -0.28}
+  m_ConnectedAnchor: {x: 1.7032702, y: -0.29631454}
   m_UseMotor: 1
   m_Motor:
     m_MotorSpeed: -100
@@ -9142,7 +9146,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8110901886750197314, guid: cb4efc93ee9f6524fb366a46e5cee2a1, type: 3}
       propertyPath: m_LocalScale.x
-      value: 3.3842807
+      value: 3.3910491
       objectReference: {fileID: 0}
     - target: {fileID: 8110901886750197314, guid: cb4efc93ee9f6524fb366a46e5cee2a1, type: 3}
       propertyPath: m_LocalScale.y
@@ -9150,7 +9154,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8110901886750197314, guid: cb4efc93ee9f6524fb366a46e5cee2a1, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 432.8446
+      value: 432.9727
       objectReference: {fileID: 0}
     - target: {fileID: 8110901886750197314, guid: cb4efc93ee9f6524fb366a46e5cee2a1, type: 3}
       propertyPath: m_LocalPosition.y
