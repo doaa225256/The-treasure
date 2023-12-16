@@ -29,6 +29,19 @@ public class PlayerStats : MonoBehaviour
                 coinsCollected+=10;
                 Destroy(collider.gameObject);
                 break;
+            case "greenMedcine":
+                this.health = this.health+1;
+                healthbar.fillAmount = this.health / 6f;
+                break;
+            case "redMedcine":
+                this.health = this.health -1;
+                healthbar.fillAmount = this.health / 6f;
+                break;
+            case "Spike":
+                this.health = this.health -1;
+                healthbar.fillAmount = this.health / 6f;
+                break;
+
             default:
                 break;
 

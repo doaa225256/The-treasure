@@ -8,6 +8,9 @@ TagManager:
   - Ground
   - Enemy
   - Coin
+  - greenMedcine
+  - redMedcine
+  - Spike
   layers:
   - Default
   - TransparentFX
