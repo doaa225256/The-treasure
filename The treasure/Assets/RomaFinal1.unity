@@ -916,6 +916,17 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5480053a42383344792c430fe7f2c023, type: 3}
+--- !u!114 &115259082 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8002883021655770582, guid: 38d049cdfde1bed4b986c0a347c322d0, type: 3}
+  m_PrefabInstance: {fileID: 424120041}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &120587150
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5083,7 +5094,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9179299185877964754, guid: 6e6d22030106fab43979497023cae085, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 70.4
+      value: 880.2
       objectReference: {fileID: 0}
     - target: {fileID: 9179299185877964754, guid: 6e6d22030106fab43979497023cae085, type: 3}
       propertyPath: m_LocalPosition.y
@@ -5122,9 +5133,17 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9179299185877964756, guid: 6e6d22030106fab43979497023cae085, type: 3}
+      propertyPath: ScoreUI
+      value: 
+      objectReference: {fileID: 1439277799}
+    - target: {fileID: 9179299185877964756, guid: 6e6d22030106fab43979497023cae085, type: 3}
       propertyPath: isImmune
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9179299185877964756, guid: 6e6d22030106fab43979497023cae085, type: 3}
+      propertyPath: healthbar
+      value: 
+      objectReference: {fileID: 115259082}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6e6d22030106fab43979497023cae085, type: 3}
 --- !u!1 &594545796
@@ -5324,7 +5343,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isFacingRight: 0
   maxSpeed: 3
-  damage: 6
+  damage: 1
   maxHealth: 100
   detectionRange: 70
 --- !u!1001 &599382798
@@ -7125,7 +7144,7 @@ GameObject:
   - component: {fileID: 750842401}
   - component: {fileID: 750842403}
   - component: {fileID: 750842402}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: GameObject
   m_TagString: Untagged
   m_Icon: {fileID: 4422084297763085224, guid: 0000000000000000d000000000000000, type: 0}
@@ -11778,6 +11797,17 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c7bcf426753e9114fbc2d477d16585d3, type: 3}
+--- !u!114 &1439277799 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8002883023559462313, guid: 38d049cdfde1bed4b986c0a347c322d0, type: 3}
+  m_PrefabInstance: {fileID: 424120041}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1446274995
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12314,7 +12344,7 @@ GameObject:
   - component: {fileID: 1513953527}
   - component: {fileID: 1513953526}
   - component: {fileID: 1513953532}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Knight_01__IDLE_000
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -12375,7 +12405,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 3.528839, y: -0.7485411}
+  m_Offset: {x: 1.6114378, y: 0.17681551}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -12386,7 +12416,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 3.243103, y: 1.8729873}
+  m_Size: {x: 7.0779057, y: 5.2042723}
   m_EdgeRadius: 0
 --- !u!61 &1513953529
 BoxCollider2D:
@@ -12401,7 +12431,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.26733398, y: 0.26733565}
+  m_Offset: {x: 1.4708388, y: 0.26733565}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -12412,7 +12442,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 3.3499756, y: 5.1879516}
+  m_Size: {x: 0.22724581, y: 5.1879516}
   m_EdgeRadius: 0
 --- !u!212 &1513953530
 SpriteRenderer:
@@ -12496,7 +12526,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isFacingRight: 0
   maxSpeed: 3
-  damage: 6
+  damage: 1
   maxHealth: 100
 --- !u!1 &1516113034
 GameObject:
