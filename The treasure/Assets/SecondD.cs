@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FirstD : MonoBehaviour
+public class SecondD : MonoBehaviour
 {
     public Dialogue dialogueManager;
     // Start is called before the first frame update
@@ -21,10 +21,9 @@ public class FirstD : MonoBehaviour
 
         if (collider.tag == "Player")
         {
-            string[] dialogue = { "Hello Jack, Welcome to Egypt!",
-                "There will be some challenges you have to avoid to reach the treasure",
-                "And, here is a hint for you!",
-                 "THE TREASURE IN THE TEMPLE" };
+            string[] dialogue = { "Take care!, you are going to fall into a cave",
+                "you have to overcome the cave man to reach the temple",
+                 };
             dialogueManager.SetSentences(dialogue);
             dialogueManager.StartCoroutine(dialogueManager.TypeDialogue());
         }
