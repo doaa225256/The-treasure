@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MapPickup : MonoBehaviour
+public class MapPickup1 : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -21,7 +21,7 @@ public class MapPickup : MonoBehaviour
         if (collider.tag == "Player")
         {
             Destroy(this.gameObject);
-            (new NavigationController()).navigateCutscene4();
+            (new NavigationController()).navigateCutscene3();
 
 
            

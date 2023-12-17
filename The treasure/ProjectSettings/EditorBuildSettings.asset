@@ -47,4 +47,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/cutscene4.unity
     guid: 4d0a054223545c34b8298cc5c76185df
+  - enabled: 1
+    path: Assets/RomaFinal1.unity
+    guid: a36fcbed7ce417f48b9180662b65f345
   m_configObjects: {}

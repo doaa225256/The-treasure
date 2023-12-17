@@ -12,7 +12,7 @@ public void navigatetoStart()
     }
     public void navigatetoL1()
     {
-        Application.LoadLevel(1);
+        Application.LoadLevel(14);
     }
     public void navigatetoL2()
     {
