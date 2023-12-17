@@ -22,7 +22,7 @@ public class SecondDialogue : MonoBehaviour
         if (collider.tag == "Player")
         {
             string[] dialogue = { "Be Careful! there is a hole jack",
-                "Avoid there are several spikes and enemies in the hole",
+                "there are several spikes and enemies in the hole",
                 "THE MAP IN THE HOLE" };
             dialogueManager.SetSentences(dialogue);
             dialogueManager.StartCoroutine(dialogueManager.TypeDialogue());

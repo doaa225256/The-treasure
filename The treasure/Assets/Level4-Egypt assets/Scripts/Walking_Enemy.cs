@@ -42,7 +42,7 @@ public class Walking_Enemy : Enemy_Controller
         }
         if (collider.tag == "Player")
         {
-            FindObjectOfType<Player_Stats>().TakeDamage(damage);
+            FindObjectOfType<PlayerStats>().TakeDamage(damage);
             Flip();
         }
     }
