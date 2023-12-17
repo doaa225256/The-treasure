@@ -23,7 +23,7 @@ public class DialogueOne : MonoBehaviour
 
         if (collider.tag == "Player")
         {
-            string[] dialogue = { "Be Careful! there is a mine bomb jack", "Avoid the spikes!", "Collect the coins!" };
+            string[] dialogue = { "Be Careful! there is a mine bomb jack", "Avoid the spikes!","Avoid red medcines!", "Collect the coins!" };
             dialogueManager.SetSentences(dialogue);
             dialogueManager.StartCoroutine(dialogueManager.TypeDialogue());
         }
