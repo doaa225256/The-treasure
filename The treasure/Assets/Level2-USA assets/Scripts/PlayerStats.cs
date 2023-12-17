@@ -100,6 +100,7 @@ public class PlayerStats : MonoBehaviour
             }
             else if (this.lives == 0 && this.health == 0)
             {
+                (new NavigationController()).navigatetoGameOver();
                 //Debug.Log("Gameover");
                 Destroy(this.gameObject);
             }
