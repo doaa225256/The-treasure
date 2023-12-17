@@ -399,6 +399,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin Prefab (10) Variant (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 2835567153681232576, guid: 172931c790cee2f45957d7fc48349f5d, type: 3}
+      propertyPath: m_TagString
+      value: Coin
+      objectReference: {fileID: 0}
     - target: {fileID: 2835567153681232581, guid: 172931c790cee2f45957d7fc48349f5d, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -2181,6 +2185,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: long_metal_spike_04 (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 4619368826290574763, guid: 036d80c4530035840b92378c3bef35d6, type: 3}
+      propertyPath: m_TagString
+      value: Spike
+      objectReference: {fileID: 0}
     - target: {fileID: 4619368826290574764, guid: 036d80c4530035840b92378c3bef35d6, type: 3}
       propertyPath: m_RootOrder
       value: 46
@@ -3625,6 +3633,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: long_metal_spike_04 (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 4619368826290574763, guid: 036d80c4530035840b92378c3bef35d6, type: 3}
+      propertyPath: m_TagString
+      value: Spike
+      objectReference: {fileID: 0}
     - target: {fileID: 4619368826290574764, guid: 036d80c4530035840b92378c3bef35d6, type: 3}
       propertyPath: m_RootOrder
       value: 70
@@ -4765,6 +4777,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin Prefab (10) Variant (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 2835567153681232576, guid: 172931c790cee2f45957d7fc48349f5d, type: 3}
+      propertyPath: m_TagString
+      value: Coin
+      objectReference: {fileID: 0}
     - target: {fileID: 2835567153681232581, guid: 172931c790cee2f45957d7fc48349f5d, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -5059,11 +5075,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9179299185877964754, guid: 6e6d22030106fab43979497023cae085, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 864.5
+      value: 839.4
       objectReference: {fileID: 0}
     - target: {fileID: 9179299185877964754, guid: 6e6d22030106fab43979497023cae085, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -6.7
+      value: -8.3
       objectReference: {fileID: 0}
     - target: {fileID: 9179299185877964754, guid: 6e6d22030106fab43979497023cae085, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5096,6 +5112,10 @@ PrefabInstance:
     - target: {fileID: 9179299185877964754, guid: 6e6d22030106fab43979497023cae085, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9179299185877964756, guid: 6e6d22030106fab43979497023cae085, type: 3}
+      propertyPath: isImmune
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6e6d22030106fab43979497023cae085, type: 3}
@@ -5201,8 +5221,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 594545796}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1049.45, y: -9.88, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 1050.6676, y: -8.6624, z: 0}
+  m_LocalScale: {x: 1.1353, y: 1.2435, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1716943643}
@@ -8296,6 +8316,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GreenMedcine (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 995635413604893586, guid: 87155f2182c500940a70cec504de3bf6, type: 3}
+      propertyPath: m_TagString
+      value: greenMedcine
+      objectReference: {fileID: 0}
     - target: {fileID: 4326736501702520678, guid: 87155f2182c500940a70cec504de3bf6, type: 3}
       propertyPath: m_RootOrder
       value: 10
@@ -9348,6 +9372,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: long_metal_spike_04 (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 4619368826290574763, guid: 036d80c4530035840b92378c3bef35d6, type: 3}
+      propertyPath: m_TagString
+      value: Spike
+      objectReference: {fileID: 0}
     - target: {fileID: 4619368826290574764, guid: 036d80c4530035840b92378c3bef35d6, type: 3}
       propertyPath: m_RootOrder
       value: 74
@@ -10221,6 +10249,10 @@ PrefabInstance:
     - target: {fileID: 4619368826290574763, guid: 036d80c4530035840b92378c3bef35d6, type: 3}
       propertyPath: m_Name
       value: long_metal_spike_04 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4619368826290574763, guid: 036d80c4530035840b92378c3bef35d6, type: 3}
+      propertyPath: m_TagString
+      value: Spike
       objectReference: {fileID: 0}
     - target: {fileID: 4619368826290574764, guid: 036d80c4530035840b92378c3bef35d6, type: 3}
       propertyPath: m_RootOrder
@@ -11144,6 +11176,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: mine_1 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 7147450385030179684, guid: 6b3a9d41955512342899ba6dc1ff68da, type: 3}
+      propertyPath: m_TagString
+      value: Spike
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6b3a9d41955512342899ba6dc1ff68da, type: 3}
 --- !u!1001 &1334578004
@@ -11615,6 +11651,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: long_metal_spike_04 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 4619368826290574763, guid: 036d80c4530035840b92378c3bef35d6, type: 3}
+      propertyPath: m_TagString
+      value: Spike
+      objectReference: {fileID: 0}
     - target: {fileID: 4619368826290574764, guid: 036d80c4530035840b92378c3bef35d6, type: 3}
       propertyPath: m_RootOrder
       value: 60
@@ -11904,6 +11944,10 @@ PrefabInstance:
     - target: {fileID: 4619368826290574763, guid: 036d80c4530035840b92378c3bef35d6, type: 3}
       propertyPath: m_Name
       value: long_metal_spike_04 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4619368826290574763, guid: 036d80c4530035840b92378c3bef35d6, type: 3}
+      propertyPath: m_TagString
+      value: Spike
       objectReference: {fileID: 0}
     - target: {fileID: 4619368826290574764, guid: 036d80c4530035840b92378c3bef35d6, type: 3}
       propertyPath: m_RootOrder
@@ -12422,8 +12466,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1513953525}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 895.6, y: -8.6, z: 0}
-  m_LocalScale: {x: 1.101, y: 1.1925, z: 1}
+  m_LocalPosition: {x: 904.9, y: -9.3, z: 0}
+  m_LocalScale: {x: 1.2137423, y: 1.341324, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 750842401}
@@ -13313,6 +13357,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin Prefab (10) Variant (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 2835567153681232576, guid: 172931c790cee2f45957d7fc48349f5d, type: 3}
+      propertyPath: m_TagString
+      value: Coin
+      objectReference: {fileID: 0}
     - target: {fileID: 2835567153681232581, guid: 172931c790cee2f45957d7fc48349f5d, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -13573,6 +13621,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin Prefab (10) Variant (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 2835567153681232576, guid: 172931c790cee2f45957d7fc48349f5d, type: 3}
+      propertyPath: m_TagString
+      value: Coin
+      objectReference: {fileID: 0}
     - target: {fileID: 2835567153681232581, guid: 172931c790cee2f45957d7fc48349f5d, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -13707,6 +13759,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin Prefab (10) Variant (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 2835567153681232576, guid: 172931c790cee2f45957d7fc48349f5d, type: 3}
+      propertyPath: m_TagString
+      value: Coin
+      objectReference: {fileID: 0}
     - target: {fileID: 2835567153681232581, guid: 172931c790cee2f45957d7fc48349f5d, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -13825,6 +13881,10 @@ PrefabInstance:
     - target: {fileID: 4619368826290574763, guid: 036d80c4530035840b92378c3bef35d6, type: 3}
       propertyPath: m_Name
       value: long_metal_spike_04 (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4619368826290574763, guid: 036d80c4530035840b92378c3bef35d6, type: 3}
+      propertyPath: m_TagString
+      value: Spike
       objectReference: {fileID: 0}
     - target: {fileID: 4619368826290574764, guid: 036d80c4530035840b92378c3bef35d6, type: 3}
       propertyPath: m_RootOrder
@@ -15014,6 +15074,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: mine_1 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7147450385030179684, guid: 6b3a9d41955512342899ba6dc1ff68da, type: 3}
+      propertyPath: m_TagString
+      value: Spike
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6b3a9d41955512342899ba6dc1ff68da, type: 3}
 --- !u!1001 &1945325076
@@ -15083,6 +15147,10 @@ PrefabInstance:
     - target: {fileID: 4619368826290574763, guid: 036d80c4530035840b92378c3bef35d6, type: 3}
       propertyPath: m_Name
       value: long_metal_spike_04 (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4619368826290574763, guid: 036d80c4530035840b92378c3bef35d6, type: 3}
+      propertyPath: m_TagString
+      value: Spike
       objectReference: {fileID: 0}
     - target: {fileID: 4619368826290574764, guid: 036d80c4530035840b92378c3bef35d6, type: 3}
       propertyPath: m_RootOrder
@@ -15250,6 +15318,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: mine_1 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7147450385030179684, guid: 6b3a9d41955512342899ba6dc1ff68da, type: 3}
+      propertyPath: m_TagString
+      value: Spike
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6b3a9d41955512342899ba6dc1ff68da, type: 3}
 --- !u!1001 &1983822332
@@ -15393,6 +15465,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: long_metal_spike_04 (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 4619368826290574763, guid: 036d80c4530035840b92378c3bef35d6, type: 3}
+      propertyPath: m_TagString
+      value: Spike
+      objectReference: {fileID: 0}
     - target: {fileID: 4619368826290574764, guid: 036d80c4530035840b92378c3bef35d6, type: 3}
       propertyPath: m_RootOrder
       value: 48
@@ -15449,6 +15525,10 @@ PrefabInstance:
     - target: {fileID: 4619368826290574763, guid: 036d80c4530035840b92378c3bef35d6, type: 3}
       propertyPath: m_Name
       value: long_metal_spike_04 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4619368826290574763, guid: 036d80c4530035840b92378c3bef35d6, type: 3}
+      propertyPath: m_TagString
+      value: Spike
       objectReference: {fileID: 0}
     - target: {fileID: 4619368826290574764, guid: 036d80c4530035840b92378c3bef35d6, type: 3}
       propertyPath: m_RootOrder
@@ -16284,6 +16364,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin Prefab (10) Variant (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 2835567153681232576, guid: 172931c790cee2f45957d7fc48349f5d, type: 3}
+      propertyPath: m_TagString
+      value: Coin
+      objectReference: {fileID: 0}
     - target: {fileID: 2835567153681232581, guid: 172931c790cee2f45957d7fc48349f5d, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -16920,6 +17004,10 @@ PrefabInstance:
     - target: {fileID: 995635413604893586, guid: 87155f2182c500940a70cec504de3bf6, type: 3}
       propertyPath: m_Name
       value: GreenMedcine (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 995635413604893586, guid: 87155f2182c500940a70cec504de3bf6, type: 3}
+      propertyPath: m_TagString
+      value: greenMedcine
       objectReference: {fileID: 0}
     - target: {fileID: 4326736501702520678, guid: 87155f2182c500940a70cec504de3bf6, type: 3}
       propertyPath: m_RootOrder

@@ -44,8 +44,9 @@ public class WalkingEnemyy : Enemies
         else if (collider.tag == "Player")
         {
             // Start the attack animation and apply damage to the player
-            Attack();
             FindObjectOfType<PlayerStats>().TakeDamage(damage);
+            Attack();
+            
         }
     }
 
